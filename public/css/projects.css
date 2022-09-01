@@ -1,0 +1,96 @@
+/* projects */
+
+#projects h3 {
+    color: var(--text-secondary-color) !important;
+    font-weight: 700;
+    font-family: "Space Mono" !important;
+}
+
+#projects a {
+    text-decoration: none;
+    color: var(--text-color) !important;
+    font-weight: 200;
+}
+
+#projects .badges {
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+#projects .badge {
+    background-color: var(--background-color) !important;
+    color: var(--text-color) !important;
+    margin: 0% 1%;
+}
+
+#projects .card {
+    background-color: var(--secondary-color) !important;
+    box-shadow: 0px 8px 24px rgba(63, 63, 63, 0.2);
+    min-height: 400px;
+    overflow: hidden;
+    border-radius: 1rem;
+    border: none !important;
+    font-weight: 400;
+}
+
+#projects .card:hover {
+    box-shadow: 0 0 11px rgba(255, 255, 255, 0.8);
+    transition: transform 0.3s;
+    transform: translateY(-7px);
+}
+
+#projects .card-title {
+    color: var(--text-color) !important;
+    font-weight: 700;
+    font-size: 22px !important;
+    margin-bottom: 20px;
+}
+
+#projects .card-text {
+    color: var(--text-color) !important;
+    font-family: "Titillium Web" !important;
+    font-weight: 400;
+    font-size: 16px !important;
+    opacity: 0.8;
+    margin-bottom: 2rem;
+}
+
+#projects .card .card-head {
+    -o-object-fit: cover;
+    object-fit: cover;
+    overflow: hidden;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    border: none !important;
+}
+
+#projects .card-footer {
+    background-color: var(--background-color) !important;
+}
+
+
+#projects .card .card-footer {
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+}
+
+#projects .card:hover .card-img-top {
+    transform: scale(1.2);
+    transition: all 0.3s ease-out;  
+}
+
+#projects .card-img-top {
+    transition: transform 0.3s;
+}
+
+#projects .float-end .btn {
+    transition: none;
+    font-weight: 400;
+    border-color: var(--primary-color) !important;
+    border-radius: 25px;
+}
+
+#projects .float-end .btn:hover {
+    background-color: var(--primary-color) !important;
+    color: var(--secondary-color) !important;
+}

@@ -1,0 +1,20 @@
+/* Default font for body */
+body {
+    font-family: "Titillium Web", sans-serif !important;
+}
+
+/* secondary font */
+.secondary-font, #secondary-font {
+    font-family: "Titillium Web" !important;
+}
+
+/* primary font */
+.primary-font, #primary-font {
+    font-family: "Titillium Web" !important;
+}
+
+
+/* Default font */
+.default-font, #default-font {
+    font-family: "Titillium Web" !important;
+}

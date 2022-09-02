@@ -118,7 +118,7 @@ header .navbar {
 #hero .image img {
     animation: fade-in 3s ease-out;
     border-radius: 0.25rem;
-    width: 130%;
+    width: 140%;
     height: auto;
 }
 
@@ -197,7 +197,7 @@ header .navbar {
 #about .image img {
     animation: fade-in 3s ease-out;
     border-radius: 0.25rem;
-    max-width: 160%;
+    max-width: 130%;
     height: auto;
 }
 

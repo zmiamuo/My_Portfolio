@@ -99,13 +99,13 @@ params:
   hero:
     enable: true
     intro: "Hi there 😊, I am"
-    title: "Oumaima ."
-    subtitle: "I am a network and telecommunications engineering student and I love creating new things"
+    title: "Oumaima."
+    subtitle: "I'm a network and telecommunications engineering student, and I love creating new things"
     image: "/Capture-removebg.png"
     button:
       enable: true
       name: "Resume"
-      url: "https://drive.google.com/uc?export=download&id=1UD90uEsPJ70AqYYExPmD_s87Q-q_WWic"
+      url: "https://drive.google.com/uc?export=download&id=1mqic_MYrkMjQE8uotSjMRMlUqqvp2aK7"
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
@@ -173,7 +173,7 @@ params:
         featuredLink:
           enable: true
           name: "💻 View Project"
-          url: "https://github.com/Hamagistral/ACCENTURE-VirutalExperience"
+          url: "https://github.com/zmiamuo"
         info:
           enable: true
           content: 
@@ -201,7 +201,7 @@ params:
         featuredLink:
           enable: true
           name: "💻 View Project"
-          url: "https://github.com/Hamagistral/Quantium-VirtualExperience"
+          url: "https://github.com/zmiamuo"
         content: |
           Created a Dash Application to help Sould Foods, a food company, figure out if the sales were higher before or after the Pink Morsel price increase on the 15th of January, 2021. 
 
@@ -226,7 +226,7 @@ params:
         featuredLink:
           enable: true
           name: "💻 View Project"
-          url: "https://github.com/Hamagistral/JPMorgan-VirutalExperience"
+          url: "https://github.com/zmiamuo"
         content: |
           Created an interface  with a stock price data feed data that is used by traders to identify under/over-valued stocks, using python, react and typescript.
 
@@ -321,7 +321,7 @@ params:
         image: studynotes.png
         featured:
           name: Video Demo
-          link: https://www.youtube.com/watch?v=B4FXn7qWPaQ&ab_channel=HamzaElBelghiti
+          link: https://www.youtube.com/watch?v=B4FXn7qWPaQ&ab_channel=OumaimaMhiriz
         badges:
           - "HTML"
           - "CSS"

@@ -101,7 +101,7 @@ params:
     intro: "Hi there 😊, I am"
     title: "Oumaima."
     subtitle: "I'm a network and telecommunications engineering student, and I love creating new things"
-    image: "/Capture-removebg.png"
+    image: "/prensent.png"
     button:
       enable: true
       name: "Resume"
@@ -118,7 +118,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/about.png"
+    image: "/aboutme.png"
     content: |-
       I recently graduated with a Bachelor’s Degree in Applied Mathematics, and as the next step I want to pursue a Master’s Degree in the Data Science and Machine Learning field. I strongly believe that Machine Learning is the future, as it can be used to solve many of the complex problems we face in our daily life.
       

@@ -120,126 +120,125 @@ params:
     title: "About Me"
     image: "/aboutme.png"
     content: |-
-      I recently graduated with a Bachelor’s Degree in Applied Mathematics, and as the next step I want to pursue a Master’s Degree in the Data Science and Machine Learning field. I strongly believe that Machine Learning is the future, as it can be used to solve many of the complex problems we face in our daily life.
-      
-      I am currently taking the Data Science and Machine Learning courses from DataCamp to sharpen my skills and be better equipped for the upcoming challenges.
+      _He who loves walking will walk further than the one who loves the destination._
+
+      I am a last-year engineering student, my next step is to find a company in IT consulting who is willing to have me within its teams as an intern for 6 months. My goal is to pursue a career in the Cloud & DevOps field. I am very enthusiastic about practical, challenging projects and tasks, especially when they have ecological perspectives and help leverage social services. Furthermore, I am
+      always excited to interact with different talented engineers and people from different backgrounds, so if my profile interests you, or if you have any questions, I'm waiting for your message !
+
+      I am currently taking different online courses to sharpen my skills and updating my skillset with required technologies in the IT market to be better equipped for the upcoming challenges.
 
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently :"
       items:
         - "Python"
-        - "Pandas"
-        - "Seaborn"
-        - "Keras"
-        - "TensorFlow"
-        - "Django"
+        - "SQL"
+        - "Ansible"
+        - "VMware vSphere"
+        - "Java"
+        - "Amazon Web Services"
 
   # Experience
   experience:
     enable: true
     items:
-      - job: "Data Science & Advanced Analytics | Virtual Experience Program"
-        company: "BCG"
-        companyUrl: "https://www.theforage.com/virtual-internships/prototype/Tcz8gTtprzAS4xSoK/Data%20Science%20&%20Analytics%20Virtual%20Experience%20Program"
-        date: "July 2022"
+      - job: "System and virtualization engineer | internship"
+        company: "AZNet "
+        companyUrl: "https://www.aznet.ma"
+        date: "August-September 2022"
         featuredLink:
-          enable: true
+          enable: false
           name: "💻 View Project"
-          url: "https://github.com/Hamagistral/BCG-VirtualExperience"
+          url: "https://github.com/zmiamuo"
         content: |
-                Worked on helping PowerCO a gas and electricity company that supplies SME,
-                diagnose the source of churning customers. 
+                Worked on setting up a redundant virtual infrastructure. 
                 
                 I did the following tasks : 
-                - Business Understanding
-                - EDA & Feature Engineering 
-                - Model Building
-                - Communicating results to the client
-                
-                Created a model based on Random Forest algorithm, that predicted the probability of a customer churning in the future. 
-                Thanks to this predictive model, we optimized the company strategy of giving the 20% discounts to only 
-                potential churning customers.
+                - Understanding needs and specifications
+                - Building the architecture according to client's demands
+                - Mounting different primary and backup servers 
+                - Management of the infrastructure's network and storage through web interface and command line
+                - Perform troubleshooting
+                - Automating repetitive tasks
         badges:
           - "Python"
-          - "Pandas"
-          - "Numpy"
-          - "Scikit-learn"
+          - "Ansible"
+          - "VMware vSphere"
+          - "Windows Server"
+          - "DHCP"
+          - "DNS"
 
-      - job: "Data Analytics | Virtual Experience Program"
-        company: "Accenture"
-        companyUrl: "https://www.theforage.com/virtual-internships/prototype/hzmoNKtzvAzXsEqx8/Data-Analytics-Virtual-Experience?ref=ayhfcqWE2smDTGihD"
+      #- job: ""
+      #  company: ""
+      #  companyUrl: ""
+      #  date: "July 2022"
+      #  featuredLink:
+      #    enable: false
+      #    name: "💻 View Project"
+      #    url: "https://github.com/zmiamuo"
+      #  info:
+      #    enable: false
+      #    content: 
+
+      #  content: |
+      #    Worked on helping SocialBuzz a video sharing social media platform, to analyse
+      #            the massive amount of data they have generated to identify some useful insights
+      #            such as the top 5 most popular categories and the month with most posts.
+
+      #    I did the following tasks : 
+      #    - Project Understanding
+
+      #  badges:
+      #    - "Google Spreadsheet"
+
+
+      - job: "Back-end Engineering | Virtual Experience Program"
+        company: "Lyft"
+        companyUrl: "https://www.theforage.com/virtual-internships/prototype/xSw9echtixLAoPdsH/Back-End%20Engineering?ref=8GGzZvPZJQLggR39h"
         date: "July 2022"
         featuredLink:
           enable: true
           name: "💻 View Project"
-          url: "https://github.com/zmiamuo"
-        info:
-          enable: true
-          content: 
-
+          url: "https://github.com/zmiamuo/forage-lyft-starter-repo"
         content: |
-          Worked on helping SocialBuzz a video sharing social media platform, to analyse
-                  the massive amount of data they have generated to identify some useful insights
-                  such as the top 5 most popular categories and the month with most posts.
+          Worked on optimizing a messy code component for it to be extensible and easy to modify, so new services criteria can be added quickly and efficiently. 
 
           I did the following tasks : 
-          - Project Understanding
-          - Data cleaning & Modeling
-          - Data Visualization & Storytelling
-          - Presenting to the Client
-
-        badges:
-          - "Google Spreadsheet"
-          - "Google Slides"
-
-
-      - job: "Software Engineering | Virtual Experience Program"
-        company: "Quantium"
-        companyUrl: "https://www.theforage.com/virtual-internships/prototype/jhiG2W9K8KLZK8nXP/Quantium:-Software-Engineering-Virtual-Experience-Program"
-        date: "July 2022"
-        featuredLink:
-          enable: true
-          name: "💻 View Project"
-          url: "https://github.com/zmiamuo"
-        content: |
-          Created a Dash Application to help Sould Foods, a food company, figure out if the sales were higher before or after the Pink Morsel price increase on the 15th of January, 2021. 
-
-          I did the following tasks : 
-          - Data Processing
-          - Created a Dash Application
-          - Improved the Dash visuals
-          - Tested the Dash Application
+          - Came up with a clean design for a messy component
+          - Refactored the messy system
+          - Wrote unit tests for the refactored system
+          - Added new functionality using TTD (Test-Driven Dev)
 
         badges:
           - "Python"
-          - "Pandas"
-          - "Dash"
-          - "CSS"
-          - "Pytest"
-          - "Selenium"
+          - "OOP"
+          - "UML"
 
-      - job: "Software Engineering | Virtual Experience Program"
-        company: "JP Morgan"
-        companyUrl: "https://www.theforage.com/virtual-internships/prototype/R5iK7HMxJGBgaSbvk/JP-Morgan-Banking-Technology-Virtual-Program?ref=ayhfcqWE2smDTGihD"
-        date: "July 2022"
+      - job: "Network and software engineering | internship"
+        company: "Redal"
+        companyUrl: "https://www.redal.ma/fr"
+        date: "July-August 2021"
         featuredLink:
-          enable: true
+          enable: false
           name: "💻 View Project"
           url: "https://github.com/zmiamuo"
         content: |
-          Created an interface  with a stock price data feed data that is used by traders to identify under/over-valued stocks, using python, react and typescript.
+          Assist troubleshooting on different levels and help manage large scale incidents. I also participated in creating an "e-facture" tool that gathers customers' data and factures and sends them automatically to their e-mail.
 
-          I did the following tasks : 
-          - Creating the Interface with a stock price data feed
-          - Used JPMorgan Chase frameworks and tools
-          - Use Perspective (an internal tool) to create the chart for the trader’s dashboard
+          I did the following tasks :
+          - Network configuration and maintenance (servers, switches,
+            routers...), incident management
+          - Optimize the internal network infrastructure's security
+          - Understand the overall hierarchy and learn about working within
+            a company
+          - API management
 
         badges:
-          - "Python"
-          - "React"
-          - "Typescript"
-          - "Financial Analysis"
+          - "JavaScript"
+          - "Cisco"
+          - "Pfsense"
+          - "MongoDB"
+          - "DHCP"
 
 
   # Education
@@ -247,11 +246,11 @@ params:
     enable: true
     # index: true
     items:
-      - title: "Bachelor of Science in Applied Mathematics"
+      - title: "Engineering degree-Network and telecommunications  "
         school:
-          name: "Faculty of Sciences and Techniques of Mohammedia"
-          url: "https://www.fstm.ac.ma/"
-        date: "2019 - 2022"
+          name: "National School of Applied Sciences-Marrakech"
+          url: "https://www.ensa.ac.ma/"
+        date: "2018 - 2023"
         content: |-
 
           > 📚 Related courses \: 
@@ -259,53 +258,62 @@ params:
           ---
 
           > **💻 Computer science \:**
-          > Programming with C •
-          > Data structures and Algorithms with C •
-          > Databases SQL
+          > Programming with C++, Java •
+          > Web development with HTML, CSS, JavaScript and PHP •
+          > Relational and Non-relational Databases MySQL and MongoDB •
 
-          > **🧮 Mathematics \:**
-          > Linear Algebra 
-          > • Calculus
-          > • Discrete Mathematics 
-          > • Arithmetic & Cyrptography
-          > • Probability & Markov Chains
-          > • Statistics (Used R)
-          > • Operational research and Optimization 
-          > • Numerical Analysis 
-          > • Scientific Computing 
+          > **🖧 Networks \:**
+          > linux administration 
+          > • Routing & Switching protocols
+          > • Network administration
+          > • VoIP & multicast communications 
+          > • Cybersecurity & Cryptography
+          > • Algorithms and network processors
+          > • Image and Signal processing
+          > • Mobile network engineering GSM/2G/3G/4G 
+          > • Optical networks and radio-frequency systems 
 
-          **👨🏻‍💻 Extracurricular Activities** : Member of  **[FSTM IT Club](https://www.linkedin.com/company/fstm-it-club/)**
-     
-      - title: "Baccalaureate in Physical Science"
-        school:
-          name: "Newton High School"
-          url: "https://www.nischool.org/"
-        date: "2018 - 2019"
-        content: |-
-
-          **🏃🏻 Extracurricular Activities** : 
+          **🤸‍♀️ Extracurricular Activities** : 
           
-            - 🎥 **Designer and Video Editer** for the School Football Club
-            - 🥇 **100m High School Sprint Record** 
+            - Member of  **[JLM-ENSAM](https://www.facebook.com/JLMENSAMARRAKECH/)**
+            - Member of  **[JCI-MARRAKECH](https://www.facebook.com/jcimorocco/)**
+            - Event coordinator at  **Angels' Smile** association
+     
+      #- title: "Baccalaureate in Physical Science"
+      #  school:
+      #    name: "Newton High School"
+      #    url: "https://www.nischool.org/"
+      #  date: "2018 - 2019"
+      #  content: |-
+
+      #    **🏃🏻 Extracurricular Activities** : 
+      #    
+      #      - 🎥 **Designer and Video Editer** for the School Football Club
+      #      - 🥇 **100m High School Sprint Record** 
 
   # Achievements
   achievements:
     enable: true
     items:
-      - title: CS50 Web Programming
-        content: Delivered by HARVARD
-        technologies: HTML/CSS • JavaScript • Django
-        url: https://certificates.cs50.io/12412c32-3309-47da-9176-0ca1a2bc353b.pdf?size=A4
-
-      - title: Applied Data Science
+      - title: Cybersecurity tools & cyber attacks
         content: Delivered by IBM
-        technologies: Python • Pandas • Numpy • Matplotlib
-        url: https://www.credly.com/badges/03cfe5c6-bc59-49ab-a7a6-6acace81decf?source=linked_in_profile
+        technologies: InfoSec • Malware • Cyber attacks
+        url: https://www.coursera.org/account/accomplishments/certificate/YV6ZVGYP4EJT
 
-      - title: Machine Learning
-        content: Delivered by FreeCodeCamp
-        technologies: Python • TensorFlow • Keras
-        url: https://www.freecodecamp.org/certification/magistral/machine-learning-with-python-v7
+      - title: Network Security Associate
+        content: Delivered by Fortinet
+        technologies:  Data Center Security • Application Security • Unified Threat Management 
+        url: https://training.fortinet.com/mod/customcert/verify_certificate.php?contextid=251439&code=ZUHGfBvT00&qrcode=1
+
+      - title: Deploy a website on the AWS Cloud
+        content: Delivered by OpenClassrooms
+        technologies: AWS • EC2 • Load-balancing • S3 bucket
+        url: https://openclassrooms.com/fr/course-certificates/4527039534
+    
+      - title: Automate configuration tasks using Ansible
+        content: Delivered by OpenClassrooms
+        technologies: CLI • Ansible • Python • Shell scripting
+        url: https://openclassrooms.com/fr/course-certificates/3085021218
 
 
 
@@ -313,15 +321,57 @@ params:
   projects:
     enable: true
     items:
+      - title: Deploy a website in AWS
+        content: Ensure high availability, scalability and balancing
+                of the load.
+        image: studynotes.png
+        #featured:
+        #  name: Video Demo
+        #  link: https://www.youtube.com/watch?v=B4FXn7qWPaQ&ab_channel=OumaimaMhiriz
+        badges:
+          - "EC2"
+          - "Elastic Load Balancer"
+          - "Auto-scaling group"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/zmiamuo/Studynotes
+
+
+      - title: Simulating a virtual router search algorithms
+        content: Simulation of routers' search algorithms such as Binary lookup, MultiBit Lookup, Compressed and Patricia Lookup Algorithms.
+        image: lookapppic.png
+        #featured:
+        #  name: demo 
+        #  link: https://github.com/zmiamuo/Virtual-Router-APP
+        badges:
+          - "Python"
+          - "Pandas"
+          - "iterative and recursive functions"
+          - "Tkinter"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/zmiamuo/Virtual-Router-APP
+
+      - title: Dimensioning and deployment of a mobile network
+        content: 2G cellular deployment project aims to determine the minimum number of sites necessary to ensure coverage of the Guéliz area according to the services offered, number and profile of subscribers while taking into account QoS constraints.
+        image: atollproject.jpg
+        badges:
+          -  Atoll
+          -  QoS
+          -  KPIs optimization
+        #links:
+        #  - icon: fab fa-github
+        #    url: https://github.com/zmiamuo/
+      
       - title: Note Taking App For Students
         content: A full stack web application that allows students to take notes in the
                 Cornell’s method, with an integrated video player to simplify the user experience,
                 and implemented a ”Calendar” feature which helps users track their exam and
                 homework deadlines.
         image: studynotes.png
-        featured:
-          name: Video Demo
-          link: https://www.youtube.com/watch?v=B4FXn7qWPaQ&ab_channel=OumaimaMhiriz
+        #featured:
+        #  name: Video Demo
+        #  link: https://www.youtube.com/watch?v=B4FXn7qWPaQ&ab_channel=OumaimaMhiriz
         badges:
           - "HTML"
           - "CSS"
@@ -330,34 +380,6 @@ params:
         links:
           - icon: fab fa-github
             url: https://github.com/zmiamuo/Studynotes
-
-
-      - title: Simulating a virtual router search algorithms
-        content: Created a price recommendation system based on the KNN algorithm to predict the
-                ideal rental price for a new apartment listed in the Airbnb website, based on its features.
-        image: airbnbpred.png
-        featured:
-          name: Notebook  
-          link: https://colab.research.google.com/drive/19YtSRT4w89TjFMRATrrRVQv0r1a1S3Wj?usp=sharing
-        badges:
-          - "Python"
-          - "Pandas"
-          - "Numpy"
-          - "Scikit-learn"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/zmiamuo
-
-      - title: Stock Price Interface
-        content: Created a stock price data feed interface used by traders to identify under/over-valued stocks.
-        image: stock.png
-        badges:
-          -  Python
-          -  React
-          -  Typescript
-        links:
-          - icon: fab fa-github
-            url: https://github.com/zmiamuo/
 
   #Contact
   contact:

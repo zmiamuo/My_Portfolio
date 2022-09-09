@@ -100,7 +100,7 @@ params:
     enable: true
     intro: "Hi there 😊, I am"
     title: "Oumaima."
-    subtitle: "I'm a network and telecommunications engineering student, and I love creating new things"
+    subtitle: "I'm a network and telecommunications engineering student, and I love learning new things"
     image: "/prensent.png"
     button:
       enable: true
@@ -120,12 +120,12 @@ params:
     title: "About Me"
     image: "/aboutme.png"
     content: |-
-      _He who loves walking will walk further than the one who loves the destination._
-
       I am a last-year engineering student, my next step is to find a company in IT consulting who is willing to have me within its teams as an intern for 6 months. My goal is to pursue a career in the Cloud & DevOps field. I am very enthusiastic about practical, challenging projects and tasks, especially when they have ecological perspectives and help leverage social services. Furthermore, I am
       always excited to interact with different talented engineers and people from different backgrounds, so if my profile interests you, or if you have any questions, I'm waiting for your message !
 
       I am currently taking different online courses to sharpen my skills and updating my skillset with required technologies in the IT market to be better equipped for the upcoming challenges.
+
+      *<center><font color=#1434bb>He who loves walking will walk further than the one who loves the destination.</font></center>*
 
     skills:
       enable: true
@@ -321,20 +321,20 @@ params:
   projects:
     enable: true
     items:
-      - title: Deploy a website in AWS
-        content: Ensure high availability, scalability and balancing
-                of the load.
-        image: studynotes.png
+      - title: Build a cloud infrastructure in AWS
+        content: Create a complete virtual private cloud for a small business shop while ensuring security, high availability, scalability and load balancing.
+        image: aws architecture.png
         #featured:
         #  name: Video Demo
         #  link: https://www.youtube.com/watch?v=B4FXn7qWPaQ&ab_channel=OumaimaMhiriz
         badges:
-          - "EC2"
+          - "VPC"
           - "Elastic Load Balancer"
           - "Auto-scaling group"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/zmiamuo/Studynotes
+          - "Security management"
+        #links:
+          #- icon: fab fa-github
+          #  url: https://github.com/zmiamuo/Studynotes
 
 
       - title: Simulating a virtual router search algorithms

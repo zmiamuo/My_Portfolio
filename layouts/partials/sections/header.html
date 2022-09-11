@@ -65,6 +65,20 @@
 
                     {{ if and (.Site.Params.contact.enable | default false) (not (.Site.Params.navbar.menus.disableContact | default false)) }}
                     <li class="nav-item navbar-text">
+                        <a class="nav-link" href="{{ .Site.BaseURL | relURL }}#experience"
+                            aria-label="contact">Interships</a>
+                    </li>
+                    {{ end }}
+
+                    {{ if and (.Site.Params.contact.enable | default false) (not (.Site.Params.navbar.menus.disableContact | default false)) }}
+                    <li class="nav-item navbar-text">
+                        <a class="nav-link" href="{{ .Site.BaseURL | relURL }}#achievements"
+                            aria-label="contact">Certifications</a>
+                    </li>
+                    {{ end }}
+
+                    {{ if and (.Site.Params.contact.enable | default false) (not (.Site.Params.navbar.menus.disableContact | default false)) }}
+                    <li class="nav-item navbar-text">
                         <a class="nav-link" href="{{ .Site.BaseURL | relURL }}#contact"
                             aria-label="contact">Contact</a>
                     </li>

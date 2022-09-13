@@ -181,15 +181,13 @@ params:
       #    content: 
 
       #  content: |
-      #    Worked on helping SocialBuzz a video sharing social media platform, to analyse
-      #            the massive amount of data they have generated to identify some useful insights
-      #            such as the top 5 most popular categories and the month with most posts.
+      #    .
 
       #    I did the following tasks : 
-      #    - Project Understanding
+      #    - 
 
       #  badges:
-      #    - "Google Spreadsheet"
+      #    - ""
 
 
       - job: "Back-end Engineering | Virtual Experience Program"
@@ -263,7 +261,7 @@ params:
           > Relational and Non-relational Databases MySQL and MongoDB •
 
           > **🖧 Networks \:**
-          > linux administration 
+          > linux administration (dns,dhcp)
           > • Routing & Switching protocols
           > • Network administration
           > • VoIP & multicast communications 

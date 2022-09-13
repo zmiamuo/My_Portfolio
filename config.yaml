@@ -4,7 +4,7 @@ languageCode: "en-us"
 title: "cd home\\oum's Portfolio"
 theme: hugo-profile
 
-Paginate: 1
+Paginate: 3
 googleAnalytics: G-G8R0Q0KB5E
 
 markup:
@@ -364,10 +364,8 @@ params:
         #    url: https://github.com/zmiamuo/
       
       - title: Note Taking App For Students
-        content: A full stack web application that allows students to take notes in the
-                Cornell’s method, with an integrated video player to simplify the user experience,
-                and implemented a ”Calendar” feature which helps users track their exam and
-                homework deadlines.
+        content: A full stack web application that allows students to take notes with an integrated video player to avoid Alt-Tabing all the time,
+                with an implemented ”Calendar” feature that helps users track their progress.
         image: studynotes.png
         #featured:
         #  name: Video Demo

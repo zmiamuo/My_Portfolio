@@ -279,17 +279,7 @@ params:
             - Member of  **[JCI-MARRAKECH](https://www.facebook.com/jcimorocco/)**
             - Event coordinator at  **Angels' Smile** association
      
-      #- title: "Baccalaureate in Physical Science"
-      #  school:
-      #    name: "Newton High School"
-      #    url: "https://www.nischool.org/"
-      #  date: "2018 - 2019"
-      #  content: |-
 
-      #    **🏃🏻 Extracurricular Activities** : 
-      #    
-      #      - 🎥 **Designer and Video Editer** for the School Football Club
-      #      - 🥇 **100m High School Sprint Record** 
 
   # Achievements
   achievements:
@@ -326,7 +316,7 @@ params:
         image: aws architecture.png
         #featured:
         #  name: Video Demo
-        #  link: https://www.youtube.com/watch?v=B4FXn7qWPaQ&ab_channel=OumaimaMhiriz
+        #  link: https://www.youtube.com/
         badges:
           - "VPC"
           - "Elastic Load Balancer"
@@ -334,7 +324,7 @@ params:
           - "Security management"
         #links:
           #- icon: fab fa-github
-          #  url: https://github.com/zmiamuo/Studynotes
+          #  url: https://github.com/zmiamuo/
 
 
       - title: Simulating a virtual router search algorithms
@@ -364,14 +354,11 @@ params:
         #    url: https://github.com/zmiamuo/
       
       - title: Note Taking App For Students
-        content: A full stack web application that allows students to take notes in the
-                Cornell’s method, with an integrated video player to simplify the user experience,
-                and implemented a ”Calendar” feature which helps users track their exam and
-                homework deadlines.
+        content: A full stack web application that allows students to take notes with an integrated video player to avoid Alt-Tabing all the time, with an implemented ”Calendar” feature that helps users track their progress. 
         image: studynotes.png
         #featured:
         #  name: Video Demo
-        #  link: https://www.youtube.com/watch?v=B4FXn7qWPaQ&ab_channel=OumaimaMhiriz
+        #  link: https://www.youtube.com/
         badges:
           - "HTML"
           - "CSS"

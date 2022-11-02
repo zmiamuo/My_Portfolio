@@ -105,7 +105,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "https://drive.google.com/uc?export=download&id=1mqic_MYrkMjQE8uotSjMRMlUqqvp2aK7"
+      url: "https://drive.google.com/file/d/1hw9XPbZhu3S9cYw8WrDnnPdFEOpzeFFU/view?usp=share_link"
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
@@ -181,15 +181,13 @@ params:
       #    content: 
 
       #  content: |
-      #    Worked on helping SocialBuzz a video sharing social media platform, to analyse
-      #            the massive amount of data they have generated to identify some useful insights
-      #            such as the top 5 most popular categories and the month with most posts.
+      #    .
 
       #    I did the following tasks : 
-      #    - Project Understanding
+      #    - 
 
       #  badges:
-      #    - "Google Spreadsheet"
+      #    - ""
 
 
       - job: "Back-end Engineering | Virtual Experience Program"
@@ -263,7 +261,7 @@ params:
           > Relational and Non-relational Databases MySQL and MongoDB •
 
           > **🖧 Networks \:**
-          > linux administration 
+          > linux administration (dns,dhcp)
           > • Routing & Switching protocols
           > • Network administration
           > • VoIP & multicast communications 
@@ -279,17 +277,7 @@ params:
             - Member of  **[JCI-MARRAKECH](https://www.facebook.com/jcimorocco/)**
             - Event coordinator at  **Angels' Smile** association
      
-      #- title: "Baccalaureate in Physical Science"
-      #  school:
-      #    name: "Newton High School"
-      #    url: "https://www.nischool.org/"
-      #  date: "2018 - 2019"
-      #  content: |-
 
-      #    **🏃🏻 Extracurricular Activities** : 
-      #    
-      #      - 🎥 **Designer and Video Editer** for the School Football Club
-      #      - 🥇 **100m High School Sprint Record** 
 
   # Achievements
   achievements:
@@ -326,15 +314,15 @@ params:
         image: aws architecture.png
         #featured:
         #  name: Video Demo
-        #  link: https://www.youtube.com/watch?v=B4FXn7qWPaQ&ab_channel=OumaimaMhiriz
+        #  link: https://www.youtube.com/
         badges:
           - "VPC"
           - "Elastic Load Balancer"
           - "Auto-scaling group"
-          - "Security management"
+          - "ACLs, Security Groups"
         #links:
           #- icon: fab fa-github
-          #  url: https://github.com/zmiamuo/Studynotes
+          #  url: https://github.com/zmiamuo/
 
 
       - title: Simulating a virtual router search algorithms
@@ -364,12 +352,17 @@ params:
         #    url: https://github.com/zmiamuo/
       
       - title: Note Taking App For Students
+<<<<<<< HEAD
         content: A full stack web application that allows students to take notes with an integrated video player to avoid Alt-Tabing all the time,
                 with an implemented ”Calendar” feature that helps users track their progress.
+=======
+        content: A full stack web application that allows students to take notes with an integrated video player to avoid Alt-Tabing all the time, with an implemented ”Calendar” feature that helps users track their progress. 
+
+
         image: studynotes.png
         #featured:
         #  name: Video Demo
-        #  link: https://www.youtube.com/watch?v=B4FXn7qWPaQ&ab_channel=OumaimaMhiriz
+        #  link: https://www.youtube.com/
         badges:
           - "HTML"
           - "CSS"
